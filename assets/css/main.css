@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.profile {
+	width: 50%;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -2634,7 +2638,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
+			margin-right: 10px;
 			width: 100%;
 		}
 
