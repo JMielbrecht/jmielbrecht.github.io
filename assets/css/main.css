@@ -4691,3 +4691,8 @@ input, select, textarea {
 		}
 
 	}
+
+	.first-letter {
+		font-size: 36px;
+		font-weight: 900;
+	}
