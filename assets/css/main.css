@@ -184,9 +184,9 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	p::first-letter {
+/* 	p::first-letter {
 		initial-letter: 2;
-	}
+	} */
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
